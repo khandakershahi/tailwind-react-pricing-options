@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "plan": "Basic",
+    "price": 29,
+    "duration": "1 Month",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "1 group class per week",
+      "Free Wi-Fi"
+    ]
+  },
+  {
+    "id": 2,
+    "plan": "Standard",
+    "price": 49,
+    "duration": "1 Month",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "3 group classes per week",
+      "Personal training session once a month",
+      "Free Wi-Fi"
+    ]
+  },
+  {
+    "id": 3,
+    "plan": "Premium",
+    "price": 79,
+    "duration": "1 Month",
+    "features": [
+      "Unlimited access to gym equipment",
+      "Locker room access",
+      "Unlimited group classes",
+      "Weekly personal training sessions",
+      "Sauna & spa access",
+      "Free Wi-Fi"
+    ]
+  }
+]
