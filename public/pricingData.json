@@ -15,6 +15,7 @@
     "id": 2,
     "plan": "Standard",
     "price": 49,
+    "popular": true,
     "duration": "1 Month",
     "features": [
       "Access to gym equipment",
